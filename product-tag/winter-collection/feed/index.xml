@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Winter Collection &#8211; Bloom Box</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Elevate Your Décor with Luxurious Floral Accents</description>
+	<lastBuildDate>Sat, 03 Jun 2023 05:46:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/06/Asset-1.png</url>
+	<title>Winter Collection &#8211; Bloom Box</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Frosty Elegance</title>
+		<link>./../../../product/frosty-elegance/index.html</link>
+					<comments>./../../../product/frosty-elegance/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 05:46:33 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=450</guid>
+
+					<description><![CDATA[Embrace the enchanting beauty of winter with this elegantly crafted bouquet.]]></description>
+										<content:encoded><![CDATA[<p>Embrace the enchanting beauty of winter with this elegantly crafted bouquet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/frosty-elegance/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Snowflake Serenade</title>
+		<link>./../../../product/snowflake-serenade/index.html</link>
+					<comments>./../../../product/snowflake-serenade/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 05:46:33 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=452</guid>
+
+					<description><![CDATA[Experience the delicate serenade of snowflakes with this captivating bouquet.]]></description>
+										<content:encoded><![CDATA[<p>Experience the delicate serenade of snowflakes with this captivating bouquet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/snowflake-serenade/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cozy Fireside</title>
+		<link>./../../../product/cozy-fireside/index.html</link>
+					<comments>./../../../product/cozy-fireside/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 05:46:33 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=453</guid>
+
+					<description><![CDATA[Warm up the winter nights with this bouquet, evoking the cozy charm of a fire.]]></description>
+										<content:encoded><![CDATA[<p>Warm up the winter nights with this bouquet, evoking the cozy charm of a fire.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/cozy-fireside/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Icy Enchantment</title>
+		<link>./../../../product/icy-enchantment/index.html</link>
+					<comments>./../../../product/icy-enchantment/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sat, 03 Jun 2023 05:46:33 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=454</guid>
+
+					<description><![CDATA[Behold the captivating allure of winter with this bouquet inspired by icy landscapes.]]></description>
+										<content:encoded><![CDATA[<p>Behold the captivating allure of winter with this bouquet inspired by icy landscapes.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/icy-enchantment/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
